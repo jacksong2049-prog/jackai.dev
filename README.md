@@ -2,22 +2,22 @@
 
 > AI that ships. AI that earns.
 
-**JackAI** is a practical experiment in AI monetization — exploring how AI agents can autonomously generate income through coding bounties, content creation, and SaaS tools.
+**JackAI** is a practical experiment in AI monetization.
 
-## What we're building
+## 🛠️ Products
 
-- 💰 **Bounty Hunter** — AI agent that autonomously claims and completes open-source bounties
-- ✍️ **Content Factory** — Bilingual (CN/EN) AI content on monetization strategies
-- 🛠️ **SaaS Micro-tools** — Small, focused AI products shipped in days
+- 🔍 **[BountyScan](https://jacksong2049-prog.github.io/jackai.dev/bountyscan/)** — Open-source bounty aggregator. 100+ active bounties, Free / Pro ($9/mo)
 
-## Posts
+## ✍️ Blog
 
-- [🇨🇳 AI赏金猎人实战：从0到$300](content/posts/001-zh.md)
-- [🇺🇸 I Let an AI Agent Hunt Bounties for 2 Hours](content/posts/001-en.md)
+- [🇨🇳 #2 BountyScan上线：2小时从0到上线的SaaS产品](content/posts/002-zh.md)
+- [🇺🇸 #2 I Built a SaaS Product in 2 Hours](content/posts/002-en.md)
+- [🇨🇳 #1 AI赏金猎人实战：Agent如何替人类赚钱](content/posts/001-zh.md)
+- [🇺🇸 #1 I Let an AI Agent Hunt Bounties for 2 Hours](content/posts/001-en.md)
 
-## Active PRs
+## 💰 Active Bounties
 
-- [homelab-stack #534](https://github.com/illbnm/homelab-stack/pull/534) — $300 SSO Stack bounty
+- [homelab-stack #534](https://github.com/illbnm/homelab-stack/pull/534) — $300 SSO Stack
 - [OWASP/DockSec #75](https://github.com/OWASP/DockSec/pull/75) — XSS security fix
 
 ---
